@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="NiP1_um2W-qjVFfPF-_h">
-    <mxGraphModel dx="4503" dy="2988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5698" dy="3638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,7 +90,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0Hs6mU-e-wpHHnGf_45k-32" value="อาจารย์" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="1" vertex="1">
-          <mxGeometry x="-1684" y="-1505" width="30" height="60" as="geometry" />
+          <mxGeometry x="-1710" y="-1505" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0Hs6mU-e-wpHHnGf_45k-33" value="ระบบค้นหาโครงงาน" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="1" vertex="1">
           <mxGeometry x="-2290" y="-1505" width="100" height="50" as="geometry" />
@@ -104,7 +104,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0Hs6mU-e-wpHHnGf_45k-34" value="ค้นหาตามชื่อ ประเภท ปี" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="1" vertex="1">
-          <mxGeometry x="-2090" y="-1610" width="100" height="50" as="geometry" />
+          <mxGeometry x="-2090" y="-1580" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0Hs6mU-e-wpHHnGf_45k-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="1" source="0Hs6mU-e-wpHHnGf_45k-35" target="0Hs6mU-e-wpHHnGf_45k-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -115,7 +115,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0Hs6mU-e-wpHHnGf_45k-35" value="บันทึกเอกสาร" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="1" vertex="1">
-          <mxGeometry x="-2090" y="-1555" width="100" height="50" as="geometry" />
+          <mxGeometry x="-2090" y="-1510" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0Hs6mU-e-wpHHnGf_45k-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="1" source="0Hs6mU-e-wpHHnGf_45k-36" target="0Hs6mU-e-wpHHnGf_45k-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -126,7 +126,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0Hs6mU-e-wpHHnGf_45k-36" value="ดูรายละเอียด&lt;div&gt;โครงงาน&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="1" vertex="1">
-          <mxGeometry x="-2090" y="-1460" width="100" height="50" as="geometry" />
+          <mxGeometry x="-2090" y="-1420" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0Hs6mU-e-wpHHnGf_45k-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="1" source="0Hs6mU-e-wpHHnGf_45k-37" target="0Hs6mU-e-wpHHnGf_45k-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -190,13 +190,13 @@
           <mxGeometry x="-1925" y="-760" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D9_A-52A2xUWyffd58kj-13" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;ขออนุมัติการทำ&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;โครงงาน&lt;/span&gt;&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="1" vertex="1">
-          <mxGeometry x="-2335" y="-900" width="100" height="50" as="geometry" />
+          <mxGeometry x="-2335" y="-905" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D9_A-52A2xUWyffd58kj-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="1" source="D9_A-52A2xUWyffd58kj-19" target="D9_A-52A2xUWyffd58kj-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D9_A-52A2xUWyffd58kj-19" value="นักศึกษา" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="1" vertex="1">
-          <mxGeometry x="-2475" y="-896" width="30" height="60" as="geometry" />
+          <mxGeometry x="-2450" y="-900" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D9_A-52A2xUWyffd58kj-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="1" source="D9_A-52A2xUWyffd58kj-23" target="D9_A-52A2xUWyffd58kj-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -208,7 +208,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D9_A-52A2xUWyffd58kj-23" value="อาจารย์" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="1" vertex="1">
-          <mxGeometry x="-1705" y="-900" width="30" height="60" as="geometry" />
+          <mxGeometry x="-1710" y="-900" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D9_A-52A2xUWyffd58kj-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="1" source="D9_A-52A2xUWyffd58kj-9" target="D9_A-52A2xUWyffd58kj-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -678,6 +678,9 @@
         </mxCell>
         <mxCell id="fJh2C3fmbB4TxrB6Jk7D-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.pixabay.com/photo/2023/09/13/07/29/ghost-8250317_640.png;" vertex="1" parent="1">
           <mxGeometry x="-1860" y="-2160" width="214.5" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="RSBKByFq2x5yV56y8QZ8-31" value="&lt;span style=&quot;font-family: Sarabun;&quot;&gt;Use case&lt;/span&gt;&lt;div style=&quot;font-family: Sarabun;&quot;&gt;การทำงานของระบบค้นหา&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2122.5" y="-1637" width="165" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
