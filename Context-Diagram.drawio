@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.3">
   <diagram name="Page-1" id="NiP1_um2W-qjVFfPF-_h">
-    <mxGraphModel dx="4809" dy="3124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4986" dy="3217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -679,7 +679,7 @@
           <mxGeometry y="20" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZaGhDLhcAFXalhAohprH-12" value="D2" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="1">
-          <mxGeometry x="-437" y="-2150" width="100" height="30" as="geometry" />
+          <mxGeometry x="-437" y="-2150" width="117" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZaGhDLhcAFXalhAohprH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="ZaGhDLhcAFXalhAohprH-14" target="ZaGhDLhcAFXalhAohprH-4">
           <mxGeometry relative="1" as="geometry">
@@ -690,7 +690,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZaGhDLhcAFXalhAohprH-14" value="D1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="1">
-          <mxGeometry x="-437" y="-2190" width="100" height="30" as="geometry" />
+          <mxGeometry x="-437" y="-2190" width="67" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZaGhDLhcAFXalhAohprH-16" value="Users" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="1">
           <mxGeometry x="-407" y="-2190" width="50" height="30" as="geometry" />
@@ -919,6 +919,19 @@
         </mxCell>
         <mxCell id="ZaGhDLhcAFXalhAohprH-88" value="&lt;span style=&quot;font-family: Sarabun;&quot;&gt;DFD LV2 ระบบบริหารจัดการโครงงาน&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="314" y="-2240" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaGhDLhcAFXalhAohprH-89" value="D5" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="1">
+          <mxGeometry x="-437" y="-2110" width="127" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaGhDLhcAFXalhAohprH-90" value="students_projects" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-407" y="-2110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaGhDLhcAFXalhAohprH-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.601;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="ZaGhDLhcAFXalhAohprH-89" target="ZaGhDLhcAFXalhAohprH-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-455" y="-2095" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
