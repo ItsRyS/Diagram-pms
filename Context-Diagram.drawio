@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.3">
   <diagram name="Page-1" id="NiP1_um2W-qjVFfPF-_h">
-    <mxGraphModel dx="3536" dy="2458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5345" dy="3405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -662,7 +662,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZaGhDLhcAFXalhAohprH-116" value="ข้อมูลเจ้าของโครงงาน" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZaGhDLhcAFXalhAohprH-109">
+        <mxCell id="ZaGhDLhcAFXalhAohprH-116" value="ข้อมูลสมาชิกโครงงาน" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZaGhDLhcAFXalhAohprH-109">
           <mxGeometry x="0.398" y="-1" relative="1" as="geometry">
             <mxPoint x="10" y="-1" as="offset" />
           </mxGeometry>
@@ -670,13 +670,13 @@
         <mxCell id="ZaGhDLhcAFXalhAohprH-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZaGhDLhcAFXalhAohprH-4" target="ZaGhDLhcAFXalhAohprH-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-440" y="-2135" />
+              <mxPoint x="-450" y="-2135" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZaGhDLhcAFXalhAohprH-118" value="ข้อมูลคำร้อง" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZaGhDLhcAFXalhAohprH-110">
+        <mxCell id="ZaGhDLhcAFXalhAohprH-118" value="ข้อมูลคำร้องเปิดโครงงาน" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZaGhDLhcAFXalhAohprH-110">
           <mxGeometry x="0.4307" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZaGhDLhcAFXalhAohprH-4" value="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="1">
@@ -889,12 +889,10 @@
             <mxPoint y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZaGhDLhcAFXalhAohprH-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.001;entryY=0.752;entryDx=0;entryDy=0;exitX=0.105;exitY=0.995;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="ZaGhDLhcAFXalhAohprH-20" target="ZaGhDLhcAFXalhAohprH-9">
+        <mxCell id="ZaGhDLhcAFXalhAohprH-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.001;entryY=0.752;entryDx=0;entryDy=0;exitX=0.092;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="ZaGhDLhcAFXalhAohprH-20" target="ZaGhDLhcAFXalhAohprH-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-290" y="-1910" />
-              <mxPoint x="-290" y="-1904" />
-              <mxPoint x="-422" y="-1904" />
+              <mxPoint x="-287" y="-1904" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -961,7 +959,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZaGhDLhcAFXalhAohprH-105" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-340" y="-2150" width="140" height="30" as="geometry" />
+          <mxGeometry x="-312" y="-2150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZaGhDLhcAFXalhAohprH-12" value="D2" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="ZaGhDLhcAFXalhAohprH-105">
           <mxGeometry width="117" height="30" as="geometry" />
@@ -970,7 +968,7 @@
           <mxGeometry x="30" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZaGhDLhcAFXalhAohprH-106" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-340" y="-2190" width="153" height="30" as="geometry" />
+          <mxGeometry x="-312" y="-2190" width="153" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZaGhDLhcAFXalhAohprH-89" value="D5" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="ZaGhDLhcAFXalhAohprH-106">
           <mxGeometry width="127" height="30" as="geometry" />
@@ -1008,6 +1006,20 @@
           <mxGeometry x="-0.1395" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZaGhDLhcAFXalhAohprH-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZaGhDLhcAFXalhAohprH-119" target="ZaGhDLhcAFXalhAohprH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaGhDLhcAFXalhAohprH-122" value="ประเภทโครงงาน" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZaGhDLhcAFXalhAohprH-121">
+          <mxGeometry x="0.0391" y="-2" relative="1" as="geometry">
+            <mxPoint x="15" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZaGhDLhcAFXalhAohprH-119" value="D8" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="-312" y="-2110" width="112" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaGhDLhcAFXalhAohprH-120" value="Projects_type" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="-2110" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
