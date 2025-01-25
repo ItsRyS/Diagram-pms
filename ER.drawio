@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.8">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1678" dy="879" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1603" dy="817" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -281,7 +281,7 @@
         <mxCell id="ESzOXi0CgvDct79OvY_y-23" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="ESzOXi0CgvDct79OvY_y-135" source="ESzOXi0CgvDct79OvY_y-19" target="ESzOXi0CgvDct79OvY_y-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ESzOXi0CgvDct79OvY_y-19" value="teacher_position" style="ellipse;whiteSpace=wrap;" parent="ESzOXi0CgvDct79OvY_y-135" vertex="1">
+        <mxCell id="ESzOXi0CgvDct79OvY_y-19" value="teacher_academic" style="ellipse;whiteSpace=wrap;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="ESzOXi0CgvDct79OvY_y-135" vertex="1">
           <mxGeometry x="-30" y="40" width="105.42" height="39.15" as="geometry" />
         </mxCell>
         <mxCell id="ESzOXi0CgvDct79OvY_y-28" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="ESzOXi0CgvDct79OvY_y-135" source="ESzOXi0CgvDct79OvY_y-21" target="ESzOXi0CgvDct79OvY_y-2" edge="1">
