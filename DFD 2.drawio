@@ -1,161 +1,97 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.8">
   <diagram name="Page-1" id="K2VT27F-Wa-ruknQgQfh">
-    <mxGraphModel dx="1603" dy="1048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2772" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MPk23g6IukzTg3if5sga-1" value="0" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-606" y="144" width="286" height="90" as="geometry" />
+        <mxCell id="MPk23g6IukzTg3if5sga-73" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1050" y="40" width="900" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.993;exitY=0.113;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MPk23g6IukzTg3if5sga-3" target="MPk23g6IukzTg3if5sga-1">
+        <mxCell id="MPk23g6IukzTg3if5sga-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MPk23g6IukzTg3if5sga-73">
+          <mxGeometry x="-10" y="-10" width="910" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="MPk23g6IukzTg3if5sga-1" value="0" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;container=0;" vertex="1" parent="MPk23g6IukzTg3if5sga-73">
+          <mxGeometry x="304" y="194" width="286" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MPk23g6IukzTg3if5sga-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.993;exitY=0.113;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="MPk23g6IukzTg3if5sga-73" source="MPk23g6IukzTg3if5sga-3" target="MPk23g6IukzTg3if5sga-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-3" value="นักศึกษา&lt;div&gt;บุคคลทั่วไป&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-980" y="-50" width="140" height="70" as="geometry" />
+        <mxCell id="MPk23g6IukzTg3if5sga-3" value="นักศึกษา&lt;div&gt;บุคคลทั่วไป&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;container=0;" vertex="1" parent="MPk23g6IukzTg3if5sga-73">
+          <mxGeometry width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.002;entryY=0.169;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MPk23g6IukzTg3if5sga-4" target="MPk23g6IukzTg3if5sga-1">
+        <mxCell id="MPk23g6IukzTg3if5sga-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="MPk23g6IukzTg3if5sga-73" source="MPk23g6IukzTg3if5sga-4" target="MPk23g6IukzTg3if5sga-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-300" y="170" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-30" y="159" />
+              <mxPoint x="840" y="217" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-21" value="จัดการผู้ใช้" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" vertex="1" connectable="0" parent="MPk23g6IukzTg3if5sga-19">
-          <mxGeometry x="0.4185" y="-2" relative="1" as="geometry">
-            <mxPoint x="-37" as="offset" />
-          </mxGeometry>
+        <mxCell id="MPk23g6IukzTg3if5sga-4" value="อาจารย์" style="html=1;dashed=0;whiteSpace=wrap;container=0;" vertex="1" parent="MPk23g6IukzTg3if5sga-73">
+          <mxGeometry x="790" y="380" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-4" value="อาจารย์" style="html=1;dashed=0;whiteSpace=wrap;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="330" width="100" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.003;entryY=0.371;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MPk23g6IukzTg3if5sga-4" target="MPk23g6IukzTg3if5sga-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-310" y="182" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-50" y="190" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-24" value="ตรวจสอบเอกสาร" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" vertex="1" connectable="0" parent="MPk23g6IukzTg3if5sga-23">
-          <mxGeometry x="0.4553" y="1" relative="1" as="geometry">
-            <mxPoint y="-2" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.001;entryY=0.573;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MPk23g6IukzTg3if5sga-4" target="MPk23g6IukzTg3if5sga-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-60" y="204" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-27" value="ประเภทโครงงาน" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" vertex="1" connectable="0" parent="MPk23g6IukzTg3if5sga-26">
-          <mxGeometry x="0.5848" relative="1" as="geometry">
-            <mxPoint x="31" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MPk23g6IukzTg3if5sga-4" target="MPk23g6IukzTg3if5sga-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-70" y="220" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-29" value="เอกสารโครงงาน" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" vertex="1" connectable="0" parent="MPk23g6IukzTg3if5sga-28">
-          <mxGeometry x="0.5067" y="-1" relative="1" as="geometry">
-            <mxPoint x="19" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.002;entryY=0.143;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MPk23g6IukzTg3if5sga-4" target="MPk23g6IukzTg3if5sga-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-40" y="174" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-33" value="ข้อมูลอาจารย์และเอกสารประกอบโครงงาน" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" vertex="1" connectable="0" parent="MPk23g6IukzTg3if5sga-32">
-          <mxGeometry x="0.645" y="-1" relative="1" as="geometry">
-            <mxPoint x="91" y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MPk23g6IukzTg3if5sga-2" target="MPk23g6IukzTg3if5sga-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-170" y="350" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-360" y="353" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-35" value="ข้อมูลผู้ใช้" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" vertex="1" connectable="0" parent="MPk23g6IukzTg3if5sga-34">
-          <mxGeometry x="0.211" y="1" relative="1" as="geometry">
-            <mxPoint x="-8" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPk23g6IukzTg3if5sga-2" target="MPk23g6IukzTg3if5sga-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-370" y="365" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-37" value="หัวข้อโครงงาน" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" vertex="1" connectable="0" parent="MPk23g6IukzTg3if5sga-36">
-          <mxGeometry x="0.2233" y="1" relative="1" as="geometry">
-            <mxPoint x="-2" y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.673;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MPk23g6IukzTg3if5sga-2" target="MPk23g6IukzTg3if5sga-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-380" y="377" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-39" value="สถานะเอกสาร" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" vertex="1" connectable="0" parent="MPk23g6IukzTg3if5sga-38">
-          <mxGeometry x="0.1455" relative="1" as="geometry">
-            <mxPoint x="22" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MPk23g6IukzTg3if5sga-2" target="MPk23g6IukzTg3if5sga-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-390" y="388" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-41" value="สถานะโครงงาน" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" vertex="1" connectable="0" parent="MPk23g6IukzTg3if5sga-40">
-          <mxGeometry x="0.1673" relative="1" as="geometry">
-            <mxPoint x="27" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.571;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MPk23g6IukzTg3if5sga-2" target="MPk23g6IukzTg3if5sga-3">
+        <mxCell id="MPk23g6IukzTg3if5sga-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.571;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MPk23g6IukzTg3if5sga-73" source="MPk23g6IukzTg3if5sga-2" target="MPk23g6IukzTg3if5sga-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-49" value="หัวข้อโครงงาน" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-573.0044283254073" y="-10.000303030303058" as="geometry" />
+        <mxCell id="MPk23g6IukzTg3if5sga-49" value="หัวข้อโครงงาน" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;labelBackgroundColor=none;" vertex="1" connectable="0" parent="MPk23g6IukzTg3if5sga-73">
+          <mxGeometry x="406.9955716745927" y="49.99969696969694" as="geometry" />
         </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-50" value="เอกสารโครงงาน" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-576.0072727272727" y="3.999999999999943" as="geometry" />
+        <mxCell id="MPk23g6IukzTg3if5sga-50" value="เอกสารโครงงาน" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;labelBackgroundColor=none;" vertex="1" connectable="0" parent="MPk23g6IukzTg3if5sga-73">
+          <mxGeometry x="403.9927272727273" y="63.99999999999994" as="geometry" />
         </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-51" value="ข้อมูลเข้าสู่ระบบ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-576.0090909090908" y="33.00030303030306" as="geometry" />
+        <mxCell id="MPk23g6IukzTg3if5sga-51" value="ข้อมูลเข้าสู่ระบบ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;labelBackgroundColor=none;" vertex="1" connectable="0" parent="MPk23g6IukzTg3if5sga-73">
+          <mxGeometry x="403.9909090909092" y="93.00030303030306" as="geometry" />
         </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-52" value="ข้อมูลสมัครสมาชิก" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-579.9951516700047" y="17.997029824920645" as="geometry" />
+        <mxCell id="MPk23g6IukzTg3if5sga-52" value="ข้อมูลสมัครสมาชิก" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;labelBackgroundColor=none;" vertex="1" connectable="0" parent="MPk23g6IukzTg3if5sga-73">
+          <mxGeometry x="400.0048483299953" y="77.99702982492065" as="geometry" />
         </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;เว็ปแอปพลิเคชั่นบริการจัดการโครงงาน&lt;div&gt;แผนกเทคโนโลยีสารสนเทศวิทยาลัยเทคนิคลำปาง&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-606" y="164" width="286" height="70" as="geometry" />
+        <mxCell id="MPk23g6IukzTg3if5sga-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MPk23g6IukzTg3if5sga-73" source="MPk23g6IukzTg3if5sga-2" target="MPk23g6IukzTg3if5sga-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="447" y="415" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-54" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;ชื่อโครงงาน ,ชื่ออาจารย์,ประเภทโครงงาน,ปีการศึกษา&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-790" y="-40" width="260" height="30" as="geometry" />
+        <mxCell id="MPk23g6IukzTg3if5sga-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;เว็ปแอปพลิเคชั่นบริการจัดการโครงงาน&lt;div&gt;แผนกเทคโนโลยีสารสนเทศวิทยาลัยเทคนิคลำปาง&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" vertex="1" parent="MPk23g6IukzTg3if5sga-73">
+          <mxGeometry x="304" y="214" width="286" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-55" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;ข้อมูลโครงงาน&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-890" y="160" width="100" height="40" as="geometry" />
+        <mxCell id="MPk23g6IukzTg3if5sga-54" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;ชื่อโครงงาน ,ชื่ออาจารย์,ประเภทโครงงาน,ปีการศึกษา&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;labelBackgroundColor=none;" vertex="1" parent="MPk23g6IukzTg3if5sga-73">
+          <mxGeometry x="195" y="20" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-56" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;สถานะเอกสาร&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-890" y="174" width="70" height="30" as="geometry" />
+        <mxCell id="MPk23g6IukzTg3if5sga-55" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;ข้อมูลโครงงาน&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="MPk23g6IukzTg3if5sga-73">
+          <mxGeometry x="90" y="224" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MPk23g6IukzTg3if5sga-57" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;ได้รับสิทธิการเข้าใช้งาน&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-890" y="144" width="140" height="40" as="geometry" />
+        <mxCell id="MPk23g6IukzTg3if5sga-56" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;สถานะเอกสาร&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="MPk23g6IukzTg3if5sga-73">
+          <mxGeometry x="90" y="209" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MPk23g6IukzTg3if5sga-57" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;ได้รับสิทธิการเข้าใช้งาน&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="MPk23g6IukzTg3if5sga-73">
+          <mxGeometry x="90" y="194" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPk23g6IukzTg3if5sga-60" value="จัดการผู้ใช้" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" vertex="1" connectable="0" parent="MPk23g6IukzTg3if5sga-73">
+          <mxGeometry x="809.9971724892692" y="270.0019810279637" as="geometry" />
+        </mxCell>
+        <mxCell id="MPk23g6IukzTg3if5sga-61" value="ข้อมูลอาจารย์และเอกสารประกอบโครงงาน" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" vertex="1" connectable="0" parent="MPk23g6IukzTg3if5sga-73">
+          <mxGeometry x="740.0028214847256" y="223.9972239417889" as="geometry" />
+        </mxCell>
+        <mxCell id="MPk23g6IukzTg3if5sga-63" value="ประเภทโครงงาน" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" vertex="1" connectable="0" parent="MPk23g6IukzTg3if5sga-73">
+          <mxGeometry x="798.0042876970263" y="238.99812944916437" as="geometry" />
+        </mxCell>
+        <mxCell id="MPk23g6IukzTg3if5sga-64" value="เอกสารโครงงาน" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" vertex="1" connectable="0" parent="MPk23g6IukzTg3if5sga-73">
+          <mxGeometry x="799.0014285714283" y="254" as="geometry" />
+        </mxCell>
+        <mxCell id="MPk23g6IukzTg3if5sga-66" value="ตรวจเอกสาร" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MPk23g6IukzTg3if5sga-73">
+          <mxGeometry x="759" y="270" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MPk23g6IukzTg3if5sga-67" value="ข้อมูลผู้ใช้" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" vertex="1" connectable="0" parent="MPk23g6IukzTg3if5sga-73">
+          <mxGeometry x="480.00434782608727" y="360.0034782608695" as="geometry" />
+        </mxCell>
+        <mxCell id="MPk23g6IukzTg3if5sga-68" value="หัวข้อโครงงาน" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" vertex="1" connectable="0" parent="MPk23g6IukzTg3if5sga-73">
+          <mxGeometry x="489.00634631433377" y="373.9957422303503" as="geometry" />
+        </mxCell>
+        <mxCell id="MPk23g6IukzTg3if5sga-69" value="สถานะเอกสาร" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" vertex="1" connectable="0" parent="MPk23g6IukzTg3if5sga-73">
+          <mxGeometry x="487.0004345112005" y="387.0035165262897" as="geometry" />
+        </mxCell>
+        <mxCell id="MPk23g6IukzTg3if5sga-70" value="สถานะโครงงาน" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" vertex="1" connectable="0" parent="MPk23g6IukzTg3if5sga-73">
+          <mxGeometry x="490.00173758190977" y="399.9978923785974" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
