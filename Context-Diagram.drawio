@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.10">
   <diagram name="Page-1" id="NiP1_um2W-qjVFfPF-_h">
-    <mxGraphModel dx="4611" dy="3002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5045" dy="3223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -283,9 +283,9 @@
           <mxGeometry x="-2982.5" y="-1607" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YyjMaU0Ngdekt9YktJRk-372" value="" style="group;labelBorderColor=none;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="856" y="-1750" width="768.5" height="470" as="geometry" />
+          <mxGeometry x="856" y="-1753" width="768.5" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="YyjMaU0Ngdekt9YktJRk-319" value="" style="html=1;whiteSpace=wrap;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBorderColor=none;labelBackgroundColor=none;" parent="YyjMaU0Ngdekt9YktJRk-372" vertex="1">
+        <mxCell id="YyjMaU0Ngdekt9YktJRk-319" value="" style="html=1;whiteSpace=wrap;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBorderColor=none;labelBackgroundColor=none;strokeColor=none;" parent="YyjMaU0Ngdekt9YktJRk-372" vertex="1">
           <mxGeometry width="768.5" height="470" as="geometry" />
         </mxCell>
         <mxCell id="YyjMaU0Ngdekt9YktJRk-320" value="&lt;span style=&quot;font-family: Sarabun;&quot;&gt;DFD LV2 &lt;/span&gt;การจัดการข้อมูล" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=none;labelBackgroundColor=none;" parent="YyjMaU0Ngdekt9YktJRk-372" vertex="1">
@@ -351,23 +351,10 @@
           <mxGeometry x="48.5" y="70" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YyjMaU0Ngdekt9YktJRk-352" value="D2" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];labelBorderColor=none;labelBackgroundColor=none;" parent="YyjMaU0Ngdekt9YktJRk-354" vertex="1">
-          <mxGeometry width="112" height="30" as="geometry" />
+          <mxGeometry width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YyjMaU0Ngdekt9YktJRk-353" value="Projects_type" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=none;labelBackgroundColor=none;" parent="YyjMaU0Ngdekt9YktJRk-354" vertex="1">
           <mxGeometry x="30" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="YyjMaU0Ngdekt9YktJRk-357" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;labelBorderColor=none;labelBackgroundColor=none;" parent="YyjMaU0Ngdekt9YktJRk-372" source="YyjMaU0Ngdekt9YktJRk-321" target="YyjMaU0Ngdekt9YktJRk-352" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="278.5" y="120" />
-              <mxPoint x="104.5" y="120" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YyjMaU0Ngdekt9YktJRk-362" value="ข้อมูลประเภทโครงงาน" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=none;labelBackgroundColor=none;" parent="YyjMaU0Ngdekt9YktJRk-357" vertex="1" connectable="0">
-          <mxGeometry x="-0.1594" y="-2" relative="1" as="geometry">
-            <mxPoint x="-23" y="-6" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="YyjMaU0Ngdekt9YktJRk-358" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.338;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;labelBorderColor=none;labelBackgroundColor=none;" parent="YyjMaU0Ngdekt9YktJRk-372" source="YyjMaU0Ngdekt9YktJRk-322" target="YyjMaU0Ngdekt9YktJRk-342" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -417,6 +404,9 @@
           <mxGeometry x="30" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oR3_0PMQ9E6IMNoJmGb4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="YyjMaU0Ngdekt9YktJRk-372" source="YyjMaU0Ngdekt9YktJRk-322" target="oR3_0PMQ9E6IMNoJmGb4-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEs2hfvhardihss3rPKu-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.379;entryY=1.046;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="YyjMaU0Ngdekt9YktJRk-372" source="YyjMaU0Ngdekt9YktJRk-321" target="YyjMaU0Ngdekt9YktJRk-353">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3nQMj6U7niMl07bXxISc-2" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Sarabun; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;และเอกสารประกอบโครงงาน&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fontSize=12;strokeColor=none;labelBorderColor=none;labelBackgroundColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
@@ -1324,7 +1314,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oR3_0PMQ9E6IMNoJmGb4-42" value="" style="html=1;whiteSpace=wrap;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBorderColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="oR3_0PMQ9E6IMNoJmGb4-42" value="" style="html=1;whiteSpace=wrap;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBorderColor=none;labelBackgroundColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1680" y="-2250" width="690" height="360" as="geometry" />
         </mxCell>
         <mxCell id="oR3_0PMQ9E6IMNoJmGb4-44" value="5.1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;labelBorderColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
