@@ -319,7 +319,7 @@
           <mxGeometry x="659.9999447513811" y="570.001528412802" width="87.01657458563535" height="37.099934683213576" as="geometry" />
         </mxCell>
         <mxCell id="ESzOXi0CgvDct79OvY_y-11" value="type_description" style="ellipse;labelBackgroundColor=default;fontColor=default;textShadow=0;labelBorderColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-0.0018784530386710685" y="294.00429784454593" width="96.02" height="44.23" as="geometry" />
+          <mxGeometry x="9.998121546961329" y="294.00429784454593" width="96.02" height="44.23" as="geometry" />
         </mxCell>
         <mxCell id="ESzOXi0CgvDct79OvY_y-15" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;labelBackgroundColor=default;fontColor=default;textShadow=0;labelBorderColor=none;" parent="1" source="ESzOXi0CgvDct79OvY_y-11" target="ESzOXi0CgvDct79OvY_y-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -328,7 +328,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ESzOXi0CgvDct79OvY_y-10" value="type_name" style="ellipse;labelBackgroundColor=default;fontColor=default;textShadow=0;labelBorderColor=none;" parent="1" vertex="1">
-          <mxGeometry x="110.0034806629834" y="294.00190725016324" width="81.21546961325966" height="37.099934683213576" as="geometry" />
+          <mxGeometry x="130.0034806629834" y="294.00190725016324" width="81.21546961325966" height="37.099934683213576" as="geometry" />
         </mxCell>
         <mxCell id="BMW-N31ml_Nr8-IVmxHA-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;textShadow=0;" parent="1" source="ESzOXi0CgvDct79OvY_y-1" target="ESzOXi0CgvDct79OvY_y-177" edge="1">
           <mxGeometry relative="1" as="geometry" />
